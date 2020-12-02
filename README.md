@@ -1,7 +1,7 @@
 # Danilo P. da Silva
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-paulino-da-silva-694ba8113/)](https://www.linkedin.com/in/danilo-paulino-da-silva-694ba8113/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilopaulinodasilva@gmail.com)](mailto:danilopaulinodasilva@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-paulino-da-silva-694ba8113/)](https://www.linkedin.com/in/danilo-paulino-da-silva-694ba8113/) 
+[![Gmail Badge](https://img.shields.io/badge/?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilopaulinodasilva@gmail.com)](mailto:danilopaulinodasilva@gmail.com)
 
 <!--
 **danilopaulinodasilva/danilopaulinodasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
