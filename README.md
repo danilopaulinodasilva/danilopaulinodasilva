@@ -8,4 +8,4 @@
 -  🤔  I’m looking for help with a lot of things!
 -  💬  Ask me about anything!
 -  📫  How to reach me: danilopaulinodasilva@gmail.com
--  💩  Fun fact: Hard is shit a coconut
+-  💩  Fun fact: Is not possible make a omelete without breaking some eggs
